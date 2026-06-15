@@ -17,6 +17,6 @@
 <br>
 
 ## :fire: Learning
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=react" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=react,php" />
 <br>
 
